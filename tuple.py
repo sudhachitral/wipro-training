@@ -15,8 +15,8 @@ tup=tuple(l)
 print(tup)
 
 #4
-#tp=(1,2,3,4)
-#print(tp.index(2))
+tp=(1,2,3,4)
+print(tp.index(2))
 
 #4
 sl=[(10,20,40),(40,50,60),(70,80,90)]
